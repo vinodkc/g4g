@@ -1,4 +1,4 @@
-package com.g4g;
+package com.g4g.arrays;
 
 import java.util.ArrayList;
 import java.util.Arrays;
